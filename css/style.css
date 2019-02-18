@@ -48,7 +48,7 @@ img:hover {
 
 .column {
  display:block;
- float:left;
+ float:auto;
 }
 
 
