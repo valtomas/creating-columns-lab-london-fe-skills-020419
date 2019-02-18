@@ -47,7 +47,8 @@ img:hover {
 }
 
 .column {
-display:inline;
+ display:block;
+ float:left;
 }
 
 
